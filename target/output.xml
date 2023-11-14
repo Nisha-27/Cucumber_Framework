@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="2.423" tests="10" skipped="0" failures="0" errors="0">
+<testcase classname="Login functionality check for Facebook page" name="Login to facebook page" time="0.027">
+<system-out><![CDATA[
+Given Go to facebook page url...............................................passed
+When user enter username....................................................passed
+And user enters password....................................................passed
+And user click Login button.................................................passed
+Then User should be on facebook page........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Passing data in steps" name="Provide mulitple data for particular step" time="0.02">
+<system-out><![CDATA[
+Given user has multiple data................................................passed
+Then data can be fectched...................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login functionality check for Orange HRM page" name="Login to Orange HRM page" time="0.007">
+<system-out><![CDATA[
+Given Go to orange HRM page.................................................passed
+When user enters the username in username field.............................passed
+And user enters password in password field..................................passed
+And user click Login button on login page...................................passed
+Then User should be on  page................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Passing data in steps" name="Provide mulitple datas for particular step" time="0.002">
+<system-out><![CDATA[
+Given user has multiple data in datatable...................................passed
+Then data can be fectched...................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login functionality check for Orange HRM page" name="Login to Orange HRM page" time="0.006">
+<system-out><![CDATA[
+Given Go to orange HRM page.................................................passed
+When user enters the username as "Admin" in username field..................passed
+And user enters password as "admin123" in password field....................passed
+And user click Login button on login page...................................passed
+Then User should be on  page................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Passing data in steps" name="Provide the data with Heading" time="0.002">
+<system-out><![CDATA[
+Given user has values in form of Key and Value..............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Passing data in steps" name="Provide multiple data for one Heading" time="0.006">
+<system-out><![CDATA[
+Given user has multiple data for multiple heading...........................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login functionality check for Orange HRM page" name="Login to Orange HRM page - Example #1.1" time="0.009">
+<system-out><![CDATA[
+Given Go to orange HRM page.................................................passed
+When user enters the username as "abi" in username field....................passed
+And user enters password as "1234n" in password field.......................passed
+And user click Login button on login page...................................passed
+Then User should be on  page................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login functionality check for Orange HRM page" name="Login to Orange HRM page - Example #1.2" time="0.003">
+<system-out><![CDATA[
+Given Go to orange HRM page.................................................passed
+When user enters the username as "Admin" in username field..................passed
+And user enters password as "admin123" in password field....................passed
+And user click Login button on login page...................................passed
+Then User should be on  page................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login functionality check for Orange HRM page" name="Login to Orange HRM page - Example #1.3" time="0.003">
+<system-out><![CDATA[
+Given Go to orange HRM page.................................................passed
+When user enters the username as "nisha" in username field..................passed
+And user enters password as "admin456" in password field....................passed
+And user click Login button on login page...................................passed
+Then User should be on  page................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
