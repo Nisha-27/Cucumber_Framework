@@ -7,7 +7,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class BaseClass {
 	
-	public static WebDriver driver;
+	public static WebDriver driver = null;
 	
 	public static WebDriver setup()
 	{
