@@ -1,9 +1,0 @@
-package step_Definition;
-
-public class NewClassConflict {
-	
-	public static void main(String[] args) {
-		System.out.println(" in remote");
-	}
-
-}
