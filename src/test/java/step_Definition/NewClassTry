@@ -4,9 +4,15 @@ package step_Definition;
 public class NewClassTry {
 
 	
+	public void test()
+	{
+		System.out.println("remote");
+	}
+	
 	public static void main(String[] args) {
 		
-		System.out.println("remote");
+		System.out.println("local");
 		
+		System.out.println("remote working ");
 	}
 }
