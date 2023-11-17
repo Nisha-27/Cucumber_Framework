@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: Launch website using info from dataTable
 -------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 134.559 s - in Launch website using info from dataTable
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 213.662 s - in Launch website using info from dataTable
